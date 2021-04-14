@@ -1,3 +1,20 @@
+#User Defined
+*.sln
+*.vs/
+*.resx
+*.csproj
+*.user
+*.json
+*.cache
+*.resources
+*.targets
+*.props
+*.AssemblyAttributes.cs
+*.AssemblyInfo.cs
+*.FileListAbsolute.txt
+*Resources.Designer.cs
+
+
 # Prerequisites
 *.d
 
