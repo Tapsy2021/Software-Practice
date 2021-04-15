@@ -22,9 +22,11 @@ namespace My_First_Project
             this.textBox1.Text = "Tapsy";
             this.label1.Text = "this is my first project";
 
-            Console.Title = "Stop";
-            Console.BackgroundColor = ConsoleColor.Green;
-
+            //This is comment line. The program will ignore this line when compiling
+            // Console.Title = "Stop";
+            //Console.BackgroundColor = ConsoleColor.Green;
+            this.Text = "Gerry";
+            Console.WriteLine("This is the console that we want to use - Taps");
 
 
 
